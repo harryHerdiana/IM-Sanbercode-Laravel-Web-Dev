@@ -1,0 +1,5 @@
+Motivasi:
+Ingin menambah skill dengan menguasai dasar-dasar Laravel hingga tingkat lanjut.
+
+Harapan:
+Bisa membuat backend-app sederhana menggunakan laravel, yang kemudian di aplikasikan menggunakan skill yang telah dikuasai.
